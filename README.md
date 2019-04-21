@@ -55,3 +55,6 @@ For instance,
 ```
 ./RuleMining.py -s 0.25 -c 0.40 -i Play_Tennis_Data_Set.csv -o Rules_out.txt
 ```
+
+## License
+MIT
